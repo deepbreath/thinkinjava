@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.ListIterator;
 
 public class Lists {
+
   private static boolean b;
   private static String s ;
   private static  int i;
@@ -17,7 +18,7 @@ public class Lists {
       //Add at end
       a.add("x");
       //Add collection
-      a.addAll(Countries.name(25));
+
 
   }
 
